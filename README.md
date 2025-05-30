@@ -1,14 +1,14 @@
-# 📸 YOLO OBJECT DETECTION SYSTEM
-
+# YOLO OBJECT DETECTION SYSTEM
 ## 📍 Đề tài
-**Xây dựng hệ thống ứng dụng mô hình Deep Learning YOLO để phát hiện đối tượng trong ảnh (BUILDING A SYSTEM USING YOLO DEEP LEARNING MODEL TO DETECTING OBJECTS IN IMAGES)**
+**Xây dựng hệ thống ứng dụng mô hình Deep Learning YOLO để phát hiện đối tượng trong ảnh**
+
+**BUILDING A SYSTEM USING YOLO DEEP LEARNING MODEL TO DETECTING OBJECTS IN IMAGES**
 
 ## 👨‍🏫 Giảng viên hướng dẫn
 - ThS. Võ Quang Hoàng Khang
 
 ## 📚 Môn học
-- Thị giác máy tính và ứng dụng
-- Computer vision
+- Thị giác máy tính và ứng dụng - Computer vision
 
 ## 👨‍🎓 Nhóm sinh viên thực hiện
 | Họ và Tên      | MSSV      |
@@ -66,7 +66,9 @@ Hệ thống được xây dựng bằng Python, sử dụng các thư viện:
 ## 🖥️ Giao diện hệ thống
 - Được xây dựng bằng `Tkinter`, có 2 phần chính:
   - Màn hình đăng nhập
+  ![image](https://github.com/user-attachments/assets/aab6445c-aa52-4063-a83f-f537022a546f)
   - Màn hình chính: hiển thị ảnh/webcam, bảng kết quả (label, confidence, bbox,...), các chức năng như mở webcam, lưu file CSV, dark mode,...
+  ![image](https://github.com/user-attachments/assets/fc9aae87-523c-461e-9062-22a9b4fadf62)
 
 ## 🚀 Hướng phát triển
 - Sử dụng mô hình nâng cao như `YOLOv8x`, `YOLOv8-seg` để kết hợp segmentation
